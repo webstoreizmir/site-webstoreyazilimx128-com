@@ -1,120 +1,65 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "Webtasarım | İzmir Yaratıcı Web & Yazılım Çözümleri",
+    "description": "İzmir merkezli profesyonel web tasarım ve yazılım ajansı. Küçük işletmeler ve girişimciler için kalite, deneyim ve güveni bir araya getiren dijital çözümler sunuyoruz."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#6A11CB",
+      "secondary": "#2575FC",
+      "background": "#F8F9FA",
+      "text": "#212529"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Poppins",
       "body": "Inter"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "vibrant abstract digital art",
+    "about_keyword": "creative software team collaborating in a modern office",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "responsive website design mockup",
+      "custom software development on computer screen",
+      "business process automation flowchart"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Yaratıcı Fikirler, Kusursuz Kodlar: İşletmenizi Dijitalde Zirveye Taşıyın",
+      "subheadline": "İzmir'deki küçük işletmeler ve girişimciler için kalite, deneyim ve güveni birleştiren modern web siteleri, özel yazılımlar ve otomasyon çözümleri geliştiriyoruz.",
+      "ctaButtonText": "Ücretsiz Teklif Al"
     },
     "about": {
       "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
-      "stats": [
-        {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
-        },
-        {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
-        },
-        {
-          "label": "Yıllık Deneyim",
-          "value": "12"
-        }
-      ]
+      "description": "Biz, İzmir'de teknolojiye tutkuyla bağlı, yaratıcı bir yazılım ve tasarım ekibiyiz. Amacımız, her işletmenin kendine özgü ihtiyaçlarını anlayarak, onlara özel, kaliteli ve güvenilir dijital çözümler üretmektir. Deneyimimiz ve yenilikçi bakış açımızla markanızın dijital yolculuğunda güvenilir ortağınız olmayı hedefliyoruz.",
+      "stats": []
     },
     "services": [
       {
         "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
+        "description": "Marka kimliğinizi yansıtan, mobil uyumlu ve kullanıcı dostu web siteleri tasarlıyoruz. Ziyaretçilerinizi müşteriye dönüştüren estetik ve fonksiyonel arayüzler yaratıyoruz.",
         "icon": "💻"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
+        "title": "Özel Yazılım",
+        "description": "İşletmenizin ihtiyaçlarına özel, ölçeklenebilir ve güvenli yazılım çözümleri geliştiriyoruz. İş süreçlerinizi dijitalleştirerek verimliliğinizi en üst seviyeye çıkarıyoruz.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "Otomasyon Çözümleri",
+        "description": "Tekrarlayan ve zaman alan görevlerinizi akıllı otomasyon sistemleriyle otomatikleştirerek zamandan ve maliyetten tasarruf etmenizi sağlıyoruz.",
         "icon": "🚀"
-      },
-      {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
       }
     ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
-      },
-      {
-        "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
-      },
-      {
-        "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
-      }
-    ],
-    "faq": [
-      {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
-      },
-      {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
-      },
-      {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
-      }
-    ],
+    "process": [],
+    "faq": [],
+    "testimonials": [],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "153 Sokak No:9 Daire:7, İzmir",
+      "phone": "+90 554 110 3132",
+      "email": "info@izmirwebstore.com"
     }
   }
 }
